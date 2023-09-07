@@ -1,5 +1,5 @@
 <h1 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=435&lines=+Hello,+I'm+Aniket+Gadage" alt="Typing SVG" /></a>  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=435&lines=+'Hello',+I'm+Aniket+Gadage" alt="Typing SVG" /></a>  
 </h1>
 <b>ReactJS-Spring-Boot-Full-Stack-App</b>
 

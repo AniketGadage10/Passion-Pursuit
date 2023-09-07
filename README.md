@@ -12,7 +12,7 @@ Service-oriented platform focusing on establishing and maintaining connections b
 
 - spring-backend
 
-Spring Boot Web Java backend application that exposes a REST API to manage hobbies. Its secured endpoints can just be accessed if an access token (JWT) is provided.
+Spring Boot Web Java backend application that exposes a REST API to manage hobbies. Its secured endpoints can be accessed if an access token (JWT) is provided.
 
 spring-backend stores its data in a MySql database.
 
@@ -20,7 +20,7 @@ Spring-backend has the following endpoints
 
 -react-frontend
 
-ReactJS frontend application where users can find and save hobbies and businesses can manage offers. In order to access the application, user/business must log in using his/her username and password. All the requests coming from the react-frontend to secured endpoints in the spring-backend have an access token (JWT) that is generated when the user/business logs in.
+ReactJS frontend application where users can find and save hobbies and businesses can manage offers. In order to access the application, the user/business must log in using his/her username and password. All the requests from the react-frontend to secured endpoints in the spring-backend have an access token (JWT) generated when the user/business logs in.
 
 <b>Prerequisites</b>
 
